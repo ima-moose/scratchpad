@@ -1,0 +1,6 @@
+moose, 1
+elk, 2
+bison, 3
+sheep, 4
+lamb, 5
+deer, 6
